@@ -1,4 +1,4 @@
-# Client Meeting Template
+# Client Meeting on MM/DD/YYYY
 
 ## Meeting Start Time
 
