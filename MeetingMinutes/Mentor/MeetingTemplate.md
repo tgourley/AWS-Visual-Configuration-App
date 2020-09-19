@@ -1,4 +1,4 @@
-# Mentor Meeting Template
+# Mentor Meeting on MM/DD/YYYY
 
 ## Meeting Start Time
 
