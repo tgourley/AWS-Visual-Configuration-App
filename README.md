@@ -11,6 +11,7 @@ Put a very high-level summary of the project.
 - Benjamin Furlani
 - Nick Hammerstrom
 - Noah Connolly
+- Benjamin Lawson (Team Mentor)
 
 ## **Client Partner Information**
 
@@ -18,8 +19,7 @@ Put a very high-level summary of the project.
 Accutech Systems
 
 ### *People:*
-- Huseyin Ergin, Professor
-- Benjamin Lawson, Team Mentor
+- Trey Gourley
 
 ## **Links**
 
@@ -31,6 +31,6 @@ Accutech Systems
 
 ## **Code Repositories**
 
-- (Mobile)
-- (Php backend)
+- Mobile (filler example)
+- Php backend (filler example)
 - Others if more.
