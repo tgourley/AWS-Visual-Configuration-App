@@ -18,11 +18,11 @@ Trey (the client), Joshua, Wyatt, Noah, Nick, Benjamin, and Ben (mentor)
 
 ## Minute Recorder
 
-Wyatt
+Wyatt, Joshua, Nick
 
 ## Topics Discussed
 
-We discussed aspects of the project, the goal for the visualizer app, which will be a desktop app, and the technologies used to develop this project. These technologies include Syncfusion, .NET, and the most commonly used AWS services.
+We discussed aspects of the project, the goal for the visualizer app, which will be a desktop app, and the technologies used to develop this project. These technologies include Syncfusion WPF, .NET Core, and the most commonly used AWS services.
 
 ## Things Clarified
 
