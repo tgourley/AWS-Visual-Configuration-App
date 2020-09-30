@@ -2,19 +2,21 @@
 
 ## Summary
 
-Put a more detailed explanation of the project along with the features/requirements.
+A dashboard for viewing status and controlling the various AWS items employed by the client. 
 
 ## High-level Features
 
-- A bullet pointed list of high-level features (Use cases if you may).
-- Another one.
+- Shows running status of various AWS items.
+- Submenu or links to access AWS features directly.
+- More to follow further meetings.
 
 ## Non-Functional Requirements
 
-- A bullet pointed list of non-functional requirements
-- Another one...
+- Clean, crisp interface that is not cluttered.
+- More to follow further meetings.
 
 ## Constraints
 
-- A bullet pointed list of constraints
-- Another one...
+- Desktop-based.
+- Not intended for mobile use.
+- More to follow further meetings.
