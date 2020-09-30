@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+A dashboard for viewing statuses and controlling (from a high level) various AWS items.
 
 ## **Team Members**
 
