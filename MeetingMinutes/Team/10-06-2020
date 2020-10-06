@@ -1,0 +1,48 @@
+# Week of 10/04/2020 - 10/10/2020
+
+## Meeting Start Time
+
+2020/10/06/06:05 PM
+
+## Meeting End Time
+
+2020/10/06/06:30 PM
+
+## Location/Medium
+
+Google Meets
+
+## Present
+
+Wyatt, Josh, Benjamin, Noah, Nick, Ben (mentor)
+
+## Minute Recorder
+
+Joshua
+
+## Topics Discussed
+Discussed division of labor for all items due October 18th.
+- Clarified what needs to be submitted for requirements.
+- Nick is responsibile for domain model
+- Ben is taking Requirements
+- Wyatt is taking Business Requirements
+- Noah is taking Tech Stack and First Iteration Features
+- Josh is taking prototype
+- Group is responsible for Use Cases.
+- Recommended to review SRS documents available online.
+Looked at some Adobe XD interactions for mocking-up prototype.
+Discussed which IDE everyone will be using.
+- Likely candidate is Visual Studio.
+Discussed what needs to be done before the next client meeting.
+- Assignments due on the 18th are likely candidates.
+- Requirements
+- Business requirements
+- Adobe XD mockups.
+Decision was made to begin coding AFTER October 18th.
+
+
+## Things Clarified
+While items are due on the 18th officially, we aim to have all items assigned completed by our next meeting.
+- Meeting will tentatively be next Wednesday, at 5:30 PM.
+Use of different IDE will not cause a functional problem, but Visual Studio is recommended by those experienced with C# in the group.
+Use Cases will be passed to each other via Slack.  Each person is responsible for one use case.
