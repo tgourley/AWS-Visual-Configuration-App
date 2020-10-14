@@ -10,6 +10,8 @@ The five AWS tools displayed in this domain model are:
 - AWS Lambda
 - S3
 
-```
+
 **Domain Model**
-```
+
+![](https://raw.githubusercontent.com/welawrence543/AWS-Visual-Configuration-App/master/Design/Capture.JPG)
+
