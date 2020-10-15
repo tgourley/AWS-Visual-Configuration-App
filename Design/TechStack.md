@@ -3,7 +3,7 @@
 This utility is crossplatform and had good ties with AWS.
 
 
-**[Programming Language: C#](https://dotnet.microsoft.com/)**
+**[Programming Language: C#](https://docs.microsoft.com/en-us/dotnet/csharp/)**
 
 This programming language is compatible with AWS and gives access to frameworks we can use.
 
