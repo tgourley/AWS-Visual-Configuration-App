@@ -1,6 +1,11 @@
-**[Microsoft .NET CORE framework utilizing C#](https://dotnet.microsoft.com/)**
+**[Microsoft .NET CORE framework](https://dotnet.microsoft.com/)**
 
 This utility is crossplatform and had good ties with AWS.
+
+
+**[Programming Language: C#](https://dotnet.microsoft.com/)**
+
+This programming language is compatible with AWS and gives access to frameworks we can use.
 
 
 **[Microsoft Visual Studio](https://visualstudio.microsoft.com/)**
