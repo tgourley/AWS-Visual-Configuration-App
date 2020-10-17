@@ -10,23 +10,19 @@ The five AWS tools displayed in this domain model are:
 - AWS Lambda
 - S3
 
-```
-EC2 Class:
+
+**EC2 Class:**
 EC2 is a web service that provides sercure, resizable compute capacity in the cloud. EC2 is one of the tools commonly used by our client, thus is included with the AWS dashboard.
-```
-```
-SES Class:
+
+
+**SES Class:**
 SES is a cost-effective, flexible, and scalable email service that enables developers to send mail from within any application. SES is another commonly used tool for our client and is a priority for iteration 1 of our dashboard.
-```
-```
-RDS Class:
-```
-```
-AWS Lambda Class:
-```
-```
-S3 Class:
-```
+
+**RDS Class:**
+
+**AWS Lambda Class:**
+
+**S3 Class:**
 
 
 
