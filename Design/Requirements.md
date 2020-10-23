@@ -18,7 +18,7 @@
   <li><b>NFR2: MEDIUM BR1</b><br />Software response time will be no longer than 2 seconds</li>
   <li><b>NFR3: HIGH BR1</b><br />Software can be installed and uninstalled with a wizard</li>
   <li><b>NFR4: HIGH BR1</b><br />Software should prevent unauthorized people from accessing the AWS information</li>
-  <li><b>NFR5: MEDIUM BR1</b><br />Software can be used on Windows, Mac, and Linux.</li>
+  <li><b>NFR5: MEDIUM BR1</b><br />Software can be used on Windows</li>
   <li><b>NFR6: HIGH BR1</b><br />Software is available as long as its dependencies are up and running.</li>
   <li><b>NFR7: LOW BR2</b><br />Software will include a help menu</li>
   <li><b>NFR8: HIGH BR1</b><br />Error messages will be specific, and recommend a future action for the user</li>
