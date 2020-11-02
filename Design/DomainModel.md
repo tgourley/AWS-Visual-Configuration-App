@@ -33,5 +33,5 @@ ___
 
 **Domain Model**
 
-![](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Design/DomainModelPicture.JPG)
+![](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Design/DomainModelNew.JPG)
 
