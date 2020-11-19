@@ -2,14 +2,23 @@
 
 ### Technology Stack
 **Microsoft Visual Studio**
-This is the preferred programming environment for the project. It is a fantastic editor for C#.
+
+This is the preferred programming environment for the project. It is a fantastic editor for C#.\
+
 **Microsoft .NET CORE framework**
+
 This utility is cross platform and has good ties with AWS.
+
 **Programming Language: C#**
+
 This programming language is compatible with AWS and gives access to frameworks we can use.
+
 **AWS API**
+
 We will utilize AWS API as a “front door” to access important AWS data and functionality.
+
 **AWSSDK.Core**
+
 SDK for .NET that streamlines the use of AWS services. 
 
 ### Development Environment Replication
