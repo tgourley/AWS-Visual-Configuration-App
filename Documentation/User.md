@@ -2,6 +2,7 @@
 
 ### Login
 The user will have two ways to log in with their AWS account.
+
 **Option 1**: Login with Username
 - Use AWS username to login.
 
