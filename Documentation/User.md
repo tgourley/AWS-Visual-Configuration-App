@@ -15,7 +15,7 @@ The **Drop Down View** is situated on the left side of the dashboard.
 This view shows basic information in a static format for your various AWS services.
 The **Visualization View** is situated in the center. This view visualizes your AWS services and displays relevant information for each service.
 
-##### Currently supported AWS services will be visible if they are running on your account. 
+**Currently supported AWS services will be visible if they are running on your account.**
 
 Currently supported services include: 
 - EC2
