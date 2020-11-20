@@ -25,7 +25,9 @@ Currently supported services include:
 ### Dashboard Functionality
 
 **Zoom In/Out**
+
 Users can zoom in and out of the Visualization window by pressing the appropriate button on the bottom right.
 
 **Service Movement**
+
 Users are able to move their services in the visualization view by selecting and dragging the service to the desired location.  
