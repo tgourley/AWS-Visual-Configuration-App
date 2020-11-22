@@ -5,11 +5,14 @@
 - AWS Account and associated Access Keys
 - Operating services within your AWS account.
 
-To deploy, download and launch the application.
+To deploy, download the executable and launch the application.
 
-Simply close the application window to end the system.
+Simply close the application window to stop the system.
 
 ### Potential Issues:
+
+**Error Logging**
+Currently, there is no error log for users.
 
 **Failed Login:**
 - Check for a steady internet connection.
