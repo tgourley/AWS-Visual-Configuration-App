@@ -31,6 +31,4 @@ Accutech Systems
 
 ## **Code Repositories**
 
-- Mobile (filler example)
-- Php backend (filler example)
-- Others if more.
+- [GitLab](https://gitlab.com/dark-anvil-labs-cloud-sketch/cloud-sketch)
