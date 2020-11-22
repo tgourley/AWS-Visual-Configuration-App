@@ -13,8 +13,8 @@ The user will have two ways to log in with their AWS account.
 
 The dashboard consists of two main views.
 The **Drop Down View** is situated on the left side of the dashboard. 
-This view shows basic information in a static format for your various AWS services.
-The **Visualization View** is situated in the center. This view visualizes your AWS services and displays relevant information for each service.
+This view shows basic information such as instance ID's and whether or not the service is running in a static format for your various AWS services.
+The **Visualization View** is situated in the center. This view visualizes your AWS services and displays similar, relevant information for each service.
 
 **Currently supported AWS services will be visible if they are running on your account.**
 
@@ -31,3 +31,6 @@ Users can zoom in and out of the Visualization window by pressing the appropriat
 **Service Movement**
 
 Users are able to move their services in the visualization view by selecting and dragging the service to the desired location.  
+
+### Close Program
+To end the program, simply close the application window.
