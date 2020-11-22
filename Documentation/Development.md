@@ -3,7 +3,7 @@
 ### Technology Stack
 **Microsoft Visual Studio**
 
-This is the preferred programming environment for the project. It is a fantastic editor for C#.\
+This is the preferred programming environment for the project. It is a fantastic editor for C#.
 
 **Microsoft .NET CORE framework**
 
