@@ -12,6 +12,7 @@ Simply close the application window to stop the system.
 ### Potential Issues:
 
 **Error Logging**
+
 Currently, there is no error log for users.
 
 **Failed Login:**
