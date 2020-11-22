@@ -32,5 +32,5 @@ Users can zoom in and out of the Visualization window by pressing the appropriat
 
 Users are able to move their services in the visualization view by selecting and dragging the service to the desired location.  
 
-### Close Program
+### End Program
 To end the program, simply close the application window.
