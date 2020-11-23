@@ -19,7 +19,7 @@ We will utilize AWS API as a “front door” to access important AWS data and f
 
 **AWSSDK.Core**
 
-SDK for .NET that streamlines the use of AWS services. 
+SDK for .NET that streamlines the use of AWS services. Make sure you have .NET CORE 3.1 or later installed on your machine. (https://dotnet.microsoft.com/download/dotnet-core/3.1/runtime/?utm_source=getdotnetcore&utm_medium=referral)
 
 **Syncfusion Control Library**
 
