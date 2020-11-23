@@ -7,7 +7,7 @@
 
 ### Steps for downloading and launching:
 
-- The executable file can be found in this Bob link: https://ballstate.box.com/s/vdaj0oxi7jh6ft70nvrcddj2ov8fp7vb
+- The executable file can be found in this box link: https://ballstate.box.com/s/vdaj0oxi7jh6ft70nvrcddj2ov8fp7vb
 - Download the whole project folder to your computer
 - Extract the project files
 - Navigate to: AWS-Visual-Configuration-App/bin/release/netcoreapp3.1
