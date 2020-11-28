@@ -22,7 +22,7 @@ Accutech Systems
 - Trey Gourley
 
 ## **Links**
-
+- [Project Management](https://github.com/welawrence543/AWS-Visual-Configuration-App/projects/1)
 - [Project description](ProjectDescription.md)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
