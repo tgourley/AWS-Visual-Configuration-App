@@ -4,10 +4,10 @@
 The user will have two ways to log in with their AWS account.
 
 **Option 1**: Login with Username
-- Use AWS username to login.
+- If you do not have an AWS account, use this method. Log in with the username "TestUser" to see the AWS service instances on the TestUser account.
 
 **Option 2**: Login with Access Keys
-- Use AWS username, Access Key, and Secret Key to login.
+- If you have an AWS account, you can use this method. Log in with your AWS username, Access Key, and Secret Key to see the AWS service instances on your account.
 
 ### Dashboard
 
