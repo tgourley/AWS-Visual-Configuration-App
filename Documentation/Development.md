@@ -3,7 +3,7 @@
 ### Technology Stack
 **Microsoft Visual Studio**
 
-This is the preferred programming environment for the project. It is a fantastic editor for C#.
+This is the preferred IDE for the project. All instructions in documentation assume the user is using this IDE.  It is a fantastic editor for C#.
 
 **Microsoft .NET CORE framework**
 
@@ -40,6 +40,8 @@ Once Visual Studio is installed and the project is open, ensure the that the fol
 - AWSSDK.EC2
 - AWSSDK.ElasticLoadBalancing
 - AWSSDK.S3
+- AWSSDK.ECS
+- AWSSDK.RDS
 - AWSSDK.SecurityToken
 - Microsoft.NET.Test.Sdk
 - NUnit
@@ -49,19 +51,24 @@ Once Visual Studio is installed and the project is open, ensure the that the fol
 
 
 ### Folder Structure
-
 The project is organized into three main sections. 
 1. AWS-API-Configuration-Library contains all API parsing classes. This is organized in order to keep frontend and backend code separate.
 2. AWS-Visual-Configuration-App-Tests contains all unit testing for the various aspects of the project.
 3. AWS-Visual-Configuration-App contains all front end development such as user interface and backend to front end pipelines. 
 
+### Running the Software (Development)
+The software can be ran ind  can be ran in Visual Studio by double-clicking "AWS-Visual-Configuration-App," then clicking launching the app by clicking the button of the same name sporting a green triangle.  Once the software is running in Visual Studio, there is a development bar within each window you can use to isolate visual elements, in addition to the normal controls available on the main Visual Studio toolbars.
+
 ### Testing
-All testing can be found in the AWS-Visual-Configuration-App-Tests folder. Running unit tests ensures functioning code. In the event of an error or failed unit test, use the unit tests to find the dysfunctional code. 
+In order to test this project you need all of the tech stack found ![here](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Design/TechStack.md) with the exception of Slack, which includes administrative access to the Atlassian repository.  You will also need to verify you add the "AWS Toolkit for Visual Studio 2017 and 2019" and "Package Installer" extentions within Visual Studio.
 
-To run all tests, click Test -> Run All Tests. 
-In Test Explorer, red X's flag failed tests and green checkmarks show passed tests.
+![Get to Test Explorer - Run Tests](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/runtests.JPG?raw=true)
+**Step 1**: Get into test explorer / Run Tests
+- After the program has finished building, double-click "AWS=Visual-Configuration-App-Tests" within the solution file, found in Solution explorer.  Once the window has fully opened, right-click the Test container again and select "Run Tests."  This should open the "Test Explorer" window.
 
-As far as the application itself, launch the program within Visual Studio. Log in with your own AWS credentials. Once logged in, you will find an interface displaying various details of services that currently supported. 
-Currently supported services include: 
-- EC2
-- Load Balancer
+![Test Explorer](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/testexplorer.JPG?raw=true)
+**Step 2**: Test Explorer
+- Test explorer is a fairly complex, but by taking the previous step you should have ran ALL tests for the software in the active branch.  You can access the test structure here, and isolate individual test to run, or select groups.  You can also choose to run only failing tests, or only succeeding tests.  A green checkmark indicates a passing test, and a red X indicates a failing test.
+
+### Determining if the Software is Running Correctly
+The software is running correctly if you are greeted by a Login window that allows you to access, view, and, in later iterations, control your AWS services.
