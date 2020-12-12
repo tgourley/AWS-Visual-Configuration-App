@@ -1,7 +1,8 @@
 # AWS Visual Configuration App User Documentation
 
+[Login Window - Main](Auxiliary Files/loginmain.jpg)
 ### Login
-The user will have two ways to log in with their AWS account.
+The user will have two ways to log in with their AWS account.  Both are presented on the main Login Window, seen above.
 
 **Option 1**: Login with Username
 - If you do not have an AWS account, use this method. Log in with the username "TestUser" to see the currently-supported AWS service instances on the TestUser account.
