@@ -1,6 +1,6 @@
 # AWS Visual Configuration App User Documentation
 
-[Login Window - Main](Auxiliary Files/loginmain.jpg)
+![Login Window - Main](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginmain.JPG?raw=true)
 ### Login
 The user will have two ways to log in with their AWS account.  Both are presented on the main Login Window, seen above.
 
