@@ -1,6 +1,7 @@
 # AWS Visual Configuration App User Documentation
+
 ### Launch
-The program can be launched from the executable found in the root directory you have saved it in.  Double-click the .exe file to run it.  You may have to right-click and select "Run as Administrator" to run it.
+The program can be launched from the executable found in the root directory you have saved it in.  Double-click the .exe file to run it.  You may have to right-click and select "Run as Administrator" to run it.  Alternatively, it can be ran from visual studio.  See the development environment instructions found [here](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Documentation/Development.md) if that is route you would like to take.
 
 ![Login Window - Main](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginmain.JPG?raw=true)
 ### Login Window - Main
