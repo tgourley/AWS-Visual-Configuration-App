@@ -3,7 +3,7 @@
 ### What you need:
 - Windows machine with .NET CORE 3.1 or later
 - AWS Account and associated Access Keys
-- Operating services within your AWS account.
+- Operating services within your AWS account (services supported as of Iteration 2: EC2, Load Balancer, ECS, and RDS)
 
 ### Steps for downloading and launching:
 
