@@ -25,6 +25,7 @@ Currently, there is no error log for users.
 **Failed Login:**
 - Check for a steady internet connection.
 - Check for accurate login credentials.  This could mean your access keys have been refreshed by an AIM administrator on your domain.
+- If problems persist, you can log in with only the username. Enter "TestUser" to log in. Note: this will only show the AWS services on the TestUser account.
 
 **Dashboard Issues:**
 Service not visible:
