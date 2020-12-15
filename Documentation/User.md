@@ -59,7 +59,7 @@ After clicking the "Login with Access Keys" button, these options will appear.
 
 ![Dashboard](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/mainwindowmain.JPG?raw=true)
 ### Dashboard
-The dashboard above will be presented when you log in successfully.  The AWS services that appear are specific to your/your employer's account, and also may vary based upon the settings feature, which is detailed below.
+The dashboard above will be presented when you log in successfully.  The AWS services that appear are specific to your/your employer's account, and also may vary based upon the settings feature, which is detailed below. NOTE: the first time you use this application, you may notice that the dashboard is empty. If this is the case, click on Settings, check all the AWS service boxes, close Settings, then hit Refresh.
 
 **Feature 1**: Drop-Down View
 - This view shows basic information such as instance ID's and whether or not the service is running in a static format for your various AWS services.  You can expand or collapse items to see nested services.  Clicking a service here will focus it both in this view, and in the Visualization view, which is detailed below.
@@ -78,7 +78,6 @@ The dashboard above will be presented when you log in successfully.  The AWS ser
 
 **Feature 6**: Settings Button
 - This button takes a user to the settings menu, detailed below under the heading "Settings Menu."
-- The first time you start the application, you may notice that your dashboard is empty. If this occurs, go to settings, check all the services, close, and then hit refresh.
 
 **Feature 7**: Refresh Button
 - This button allows a user to refresh their active connection to AWS.  If a change is made using the Amazon Dashboard, you can click this to see relevant changes reflected.  Additionally, after making changes in the Settings Menu, you can click this to see the changes.
