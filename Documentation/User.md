@@ -78,6 +78,7 @@ The dashboard above will be presented when you log in successfully.  The AWS ser
 
 **Feature 6**: Settings Button
 - This button takes a user to the settings menu, detailed below under the heading "Settings Menu."
+- The first time you start the application, you may notice that your dashboard is empty. If this occurs, go to settings, check all the services, close, and then hit refresh.
 
 **Feature 7**: Refresh Button
 - This button allows a user to refresh their active connection to AWS.  If a change is made using the Amazon Dashboard, you can click this to see relevant changes reflected.  Additionally, after making changes in the Settings Menu, you can click this to see the changes.
