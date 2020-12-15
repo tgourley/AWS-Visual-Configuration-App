@@ -57,7 +57,7 @@ The project is organized into three main sections.
 3. AWS-Visual-Configuration-App contains all front end development such as user interface and backend to front end pipelines. 
 
 ### Running the Software (Development)
-The software can be ran ind  can be ran in Visual Studio by double-clicking "AWS-Visual-Configuration-App," then clicking launching the app by clicking the button of the same name sporting a green triangle.  Once the software is running in Visual Studio, there is a development bar within each window you can use to isolate visual elements, in addition to the normal controls available on the main Visual Studio toolbars.
+The software can be ran in Visual Studio by double-clicking "AWS-Visual-Configuration-App," then clicking launching the app by clicking the button of the same name sporting a green triangle.  Once the software is running in Visual Studio, there is a development bar within each window you can use to isolate visual elements, in addition to the normal controls available on the main Visual Studio toolbars.
 
 ### Testing
 In order to test this project you need all of the tech stack found ![here](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Design/TechStack.md) with the exception of Slack, which includes administrative access to the Atlassian repository.  You will also need to verify you add the "AWS Toolkit for Visual Studio 2017 and 2019" and "Package Installer" extentions within Visual Studio.
