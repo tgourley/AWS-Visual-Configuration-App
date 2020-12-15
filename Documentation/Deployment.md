@@ -33,4 +33,4 @@ Service not visible:
 - Ensure the service you want to see is running on your AWS account.
 - Check for a steady internet connection.
 - Refresh services using the refresh button.
-- Make sure the service you want to see is selected for visibility under the Settings Menu.  This is accessed using the Settings button on the dashboard.
+- Make sure the service you want to see is selected for visibility under the Settings Menu.  This is accessed using the Settings button on the dashboard. Be sure to click "Refresh" after making changes in Settings.
