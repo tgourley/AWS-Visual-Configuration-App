@@ -102,7 +102,7 @@ This menu allows you to control which services are show on the dashboard.
 **Feature 3**: Exit Menu
 - Click the standard "Exit" window operator to exit the window and save changes.  You will have either click "Refresh" or logout and log back in to see the reflected changes.
 
-### The following are services supported by iteration 2 release.
+### The following are services supported by iteration 3 release.
 - EC2
 - Load Balancer
 - RDS
