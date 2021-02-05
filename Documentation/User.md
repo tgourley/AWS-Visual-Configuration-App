@@ -107,3 +107,4 @@ This menu allows you to control which services are show on the dashboard.
 - Load Balancer
 - RDS
 - ECS
+- S3
