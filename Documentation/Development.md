@@ -40,6 +40,7 @@ Once Visual Studio is installed and the project is open, ensure the that the fol
 - AWSSDK.EC2
 - AWSSDK.ElasticLoadBalancing
 - AWSSDK.S3
+- AWSSDK.CloudWatch
 - AWSSDK.ECS
 - AWSSDK.RDS
 - AWSSDK.SecurityToken
