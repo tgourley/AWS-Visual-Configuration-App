@@ -64,7 +64,7 @@ The software can be ran in Visual Studio by double-clicking "AWS-Visual-Configur
 In order to test this project you need all of the tech stack found ![here](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Design/TechStack.md) with the exception of Slack, which includes administrative access to the Atlassian repository.  You will also need to verify you add the "AWS Toolkit for Visual Studio 2017 and 2019" and "Package Installer" extentions within Visual Studio.
 
 ![Get to Test Explorer - Run Tests](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/runtests.JPG?raw=true)
-**Step 1**: Get into test explorer / Run Tests
+<br/>**Step 1**: Get into test explorer / Run Tests
 - After the program has finished building, double-click "AWS=Visual-Configuration-App-Tests" within the solution file, found in Solution explorer.  Once the window has fully opened, right-click the Test container again and select "Run Tests."  This should open the "Test Explorer" window.
 
 ![Test Explorer](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/testexplorer.JPG?raw=true)
