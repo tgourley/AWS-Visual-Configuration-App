@@ -79,7 +79,7 @@ Because running all the tests, and hence making many API calls, was incurring a 
 
 ![Login as User](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginO.JPG?raw=true)
 <br/>**Step 1**: Login with Username
-- Click "Login with Username". Click on the "o" in the word "Login".
+- Click "Login with Username". Click on the "o" in the word "Login" three times.
 
 ![Blue box appear](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginBlueBox.JPG?raw=true)
 <br/>**Step 2**: Blue Box
