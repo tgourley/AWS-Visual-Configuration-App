@@ -77,11 +77,11 @@ The software is running correctly if you are greeted by a Login window that allo
 ### DevMode Option
 Because running all the tests, and hence making many API calls, was incurring a charge, we have implemented mock AWS clients, and the tests now utilize these. In doing so, we are also creating mock AWS clients and items to test the software. The software features a DevMode option, in which the fake items can be viewed. To enable DevMode:
 
-![Login as User](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/logino.JPG?raw=true)
+![](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/logino.JPG?raw=true)
 <br/>**Step 1**: Login with Username
 - Click "Login with Username". Click on the "o" in the word "Login" three times.
 
-![Blue box appear](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginbluebox.JPG?raw=true)
+!(https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginbluebox.JPG?raw=true)
 <br/>**Step 2**: Blue Box
 - After clicking on the "o" three times, a blue box will appear over the "o". Click Login.
 
