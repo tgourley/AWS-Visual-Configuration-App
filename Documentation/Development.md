@@ -81,10 +81,10 @@ Because running all the tests, and hence making many API calls, was incurring a 
 <br/>**Step 1**: Login with Username
 - Click "Login with Username". Click on the "o" in the word "Login" three times.
 
-![Blue Box](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginbluebox.JPG?raw=true)
+![Blue Box](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginbluebox.jpg?raw=true)
 <br/>**Step 2**: Blue Box
 - After clicking on the "o" three times, a blue box will appear over the "o". Click Login.
 
-![Fake Items](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/fakeawsitems.JPG?raw=true)
+![Fake Items](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/fakeawsitems.jpg?raw=true)
 <br/>**Step 3**: View Fake AWS Items
 - Enabling DevMode successful. Created fake AWS items appear in the dashboard.
