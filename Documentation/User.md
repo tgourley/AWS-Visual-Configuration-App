@@ -102,9 +102,9 @@ This menu allows you to control which services are show on the dashboard.
 **Feature 3**: Exit Menu
 - Click the standard "Exit" window operator to exit the window and save changes.  You will have either click "Refresh" or logout and log back in to see the reflected changes.
 
-**Feature 4**: Set Auto Refresh Interval
+**Feature 4**: Set Auto Refresh Rate
+- User can set the time interval (in seconds) that the software will refresh services. Setting this will require a restart (log out and log back in).
 ![Auto Refresh](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/autorefresh.jpg?raw=true)
-- You can set the time interval (in seconds) that the program will refresh services. Setting this will require a restart (log out and log back in).
 
 ### The following are services supported by iteration 3 release.
 - EC2
