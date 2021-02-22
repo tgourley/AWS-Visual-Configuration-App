@@ -1,0 +1,34 @@
+# Week of 02/15/2021 - 02/21/2021
+
+## Meeting Start Time
+
+2021/02/21/05:00 PM
+
+## Meeting End Time
+
+2021/02/21/05:37 PM
+
+## Location/Medium
+
+Google Meets
+
+## Present
+
+Wyatt, Josh, Ben, Noah, Nick
+
+## Minute Recorder
+
+Josh
+
+## Topics Discussed
+
+We discussed the results of the scores from the last iteration, and what we could do to improve our scores next time around.  We decided that an improvement on testing was needed, as well as aesthetic.
+
+## Things Clarified
+
+We clarified who is doing what for this iteration, and adjusted this from our previous meeting based upon grades from iteration 3. Tasks:
+- Josh: Adding logger, may move checkDevMode() to separate class for modularity and cleanliness.
+- Ben: Updating UI aesthetic, adding controller tests, and adding environment variable for devMode.
+- Noah: Working on new services, preparing symposium materials.
+- Nick: Working on adding Route 53.
+- Wyatt: Refactoring ECS, preparing symposium materials.
