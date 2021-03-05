@@ -79,14 +79,15 @@ The software is running correctly if you are greeted by a Login window that allo
 ### DevMode Option
 Because we are working with mock AWS items for testing, we want to verify that these mock items show up in the dashboard properly. The software features a DevMode option, in which the fake items can be viewed. To enable DevMode:
 
-![Login as User](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/logino.jpg?raw=true)
-<br/>**Step 1**: Login with Username
-- Click "Login with Username". Click on the "o" in the word "Login" three times.
+<br/>**Step 1**: Add a System Environment variable.
+- In your computer's Environment Variables location (this can vary based upon OS),add a new system variable named "CLOUD_SKETCH_DEV_ACTIVE" and set the Value to "1."
 
-![Blue Box](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginbluebox.jpg?raw=true)
-<br/>**Step 2**: Blue Box
-- After clicking on the "o" three times, a blue box will appear over the "o". Click Login.
+<br/>**Step 2**: Restart your computer.
+- Restart your computer in order for the changes to take effect.
+
+<br/>**Step 3**: Accessing the Main Window.
+- When you launch Cloud Sketch from Visual Studio, on the first Login window, simply click "Login."
 
 ![Fake Items](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/fakeawsitems.jpg?raw=true)
-<br/>**Step 3**: View Fake AWS Items
-- Enabling DevMode successful. Created fake AWS items appear in the dashboard.
+<br/>**Step 4**: View Fake AWS Items
+- Enabling DevMode successful. You should some notably named test items on the dashboard.
