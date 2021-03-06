@@ -17,7 +17,7 @@ The user will have two ways to log in with their AWS account.  Both are presente
 - On this screen,  the Login button will be grayed out until the next screen occurs.  This functionality seems redundant at current but will be updated as more complex login features are enabled.  
 
 **Feature 4**: Standard Window Features
-- These standard window operators will exist on every window that can be generated within the program.  They allow a user to minimize, maximize, and close the window.  If the window closed is the only window open, the program will also stop.
+- These standard window operators will exist on every window that can be generated within the program.  They allow a user to minimize and close the window.  If the window closed is the only window open, the program will also stop.
 
 **Feature 5**: Developer's Toolbar
 - This toolbar contains a variety of developer-only features, and will not exist in the production version of the software.  A loose explanation of each button from left to right is: Access Live Visual Tree, Select an Element, Display Layout Adorners, Track a Focused Element, and perform a Hot Reload.  Further explanations of these items can be found on within WPF documentation, found [here](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/introduction-to-wpf?view=netframeworkdesktop-4.8)
