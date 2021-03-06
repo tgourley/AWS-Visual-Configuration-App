@@ -87,7 +87,7 @@ The dashboard above will be presented when you log in successfully.  The AWS ser
 
 ![Zoom-In - Zoom-Out](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/dragonzoom.JPG?raw=true)
 ### Zoom-In - Zoom-Out
-When zoomed-in sufficiently, drabbable sliders appear to allow finer control of the pane.
+When zoomed-in sufficiently, draggable sliders appear to allow finer control of the pane.
 
 ![Settings Menu](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/servicesettings.JPG?raw=true)
 ### Settings Menu
