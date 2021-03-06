@@ -112,3 +112,4 @@ This menu allows you to control which services are show on the dashboard.
 - RDS
 - ECS
 - S3
+- Route 53
