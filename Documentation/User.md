@@ -64,25 +64,28 @@ The dashboard above will be presented when you log in successfully.  The AWS ser
 **Feature 1**: Drop-Down View
 - This view shows basic information such as instance ID's and whether or not the service is running in a static format for your various AWS services.  You can expand or collapse items to see nested services.  Clicking a service here will focus it both in this view, and in the Visualization view, which is detailed below.
 
-**Feature 2**: Load Balancer Representation / Secondary Service
+**Feature 2**: Drop-Down View Toggle 
+- This button toggles the drop-down view from visible to hidden or vice versa.
+
+**Feature 3**: Load Balancer Representation / Secondary Service
 - The icon indicated in the picture represents a load balancer.  In future iterations, it may be used as a general icon for a service type that touches multiple other services, also known as a secondary service.
 
-**Feature 3**: EC2 Representation / Primary Service / Currently Focused Indication
+**Feature 4**: EC2 Representation / Primary Service / Currently Focused Indication
 - The icon indicated in the picture represents an EC2 instance.  In future iterations, it may be used as a general icon for a primary service type.  This particular EC2 also shows what an object looks like when it is "focused."
 
-**Feature 4**: Zoom-In / Zoom-Out
+**Feature 5**: Zoom-In / Zoom-Out
 - These buttons can be clicked to zoom in and out on the visualizatin menu.  They are detailed a bit further below under the "Zoom-In - Zoom-Out" heading.
 
-**Feature 5**: Logout Button
+**Feature 6**: Logout Button
 - This button returns a user to the primary login screen.
 
-**Feature 6**: Settings Button
+**Feature 7**: Settings Button
 - This button takes a user to the settings menu, detailed below under the heading "Settings Menu."
 
-**Feature 7**: Refresh Button
+**Feature 8**: Refresh Button
 - This button allows a user to refresh their active connection to AWS.  If a change is made using the Amazon Dashboard, you can click this to see relevant changes reflected.  Additionally, after making changes in the Settings Menu, you can click this to see the changes.
 
-**Feature 8**: Visualization View
+**Feature 9**: Visualization View
 - This pane visualizes your AWS services and displays similar, relevant information for each service.
 
 ![Settings Menu](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/settings.jpeg?raw=true)
