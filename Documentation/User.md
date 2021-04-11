@@ -110,6 +110,6 @@ This menu allows you to control which services are show on the dashboard.
 - EC2
 - Load Balancer
 - RDS
-- ECS
+- ECS (Clusters, Services, and Tasks)
 - S3
 - Route 53
