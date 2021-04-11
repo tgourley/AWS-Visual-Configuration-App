@@ -106,7 +106,7 @@ This menu allows you to control which services are show on the dashboard.
 - User can set the time interval (in seconds) that the software will refresh services. Setting this for the first time will require a restart (log out and log back in).
 ![Auto Refresh](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/autorefresh.jpg?raw=true)
 
-### The following are services supported by iteration 4 release.
+### The following are services supported by iteration 5 release.
 - EC2
 - Load Balancer
 - RDS
