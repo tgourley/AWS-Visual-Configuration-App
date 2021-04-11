@@ -22,7 +22,7 @@ The user will have two ways to log in with their AWS account.  Both are presente
 **Feature 5**: Developer's Toolbar
 - This toolbar contains a variety of developer-only features, and will not exist in the production version of the software.  A loose explanation of each button from left to right is: Access Live Visual Tree, Select an Element, Display Layout Adorners, Track a Focused Element, and perform a Hot Reload.  Further explanations of these items can be found on within WPF documentation, found [here](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/introduction-to-wpf?view=netframeworkdesktop-4.8)
 
-![Login Window - Username](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginuser.JPG?raw=true)
+![Login Window - Username](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/userlogin.jpeg?raw=true)
 ### Login - User
 After clicking the "Login with Username" button, these options will appear.
 
@@ -35,7 +35,7 @@ After clicking the "Login with Username" button, these options will appear.
 **Feature 3**: Login Button
 - On this menu, this button will be available.  Clicking it with a valid username will allow you further into the program by accessing your relative AWS account.
 
-![Login Window - Access Keys](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/loginaccess.JPG?raw=true)
+![Login Window - Access Keys](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/accesskeylogin.jpeg?raw=true)
 ### Login - Access Keys
 After clicking the "Login with Access Keys" button, these options will appear.
 
@@ -89,7 +89,7 @@ The dashboard above will be presented when you log in successfully.  The AWS ser
 ### Zoom-In - Zoom-Out
 When zoomed-in sufficiently, draggable sliders appear to allow finer control of the pane.
 
-![Settings Menu](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/servicesettings.JPG?raw=true)
+![Settings Menu](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/settings.jpeg?raw=true)
 ### Settings Menu
 This menu allows you to control which services are show on the dashboard.
 
@@ -104,7 +104,6 @@ This menu allows you to control which services are show on the dashboard.
 
 **Feature 4**: Set Auto Refresh Rate
 - User can set the time interval (in seconds) that the software will refresh services. Setting this for the first time will require a restart (log out and log back in).
-![Auto Refresh](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/autorefresh.jpg?raw=true)
 
 ### The following are services supported by iteration 5 release.
 - EC2
