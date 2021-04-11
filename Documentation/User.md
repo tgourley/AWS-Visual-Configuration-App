@@ -85,10 +85,6 @@ The dashboard above will be presented when you log in successfully.  The AWS ser
 **Feature 8**: Visualization View
 - This pane visualizes your AWS services and displays similar, relevant information for each service.
 
-![Zoom-In - Zoom-Out](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/dragonzoom.JPG?raw=true)
-### Zoom-In - Zoom-Out
-When zoomed-in sufficiently, draggable sliders appear to allow finer control of the pane.
-
 ![Settings Menu](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/settings.jpeg?raw=true)
 ### Settings Menu
 This menu allows you to control which services are show on the dashboard.
