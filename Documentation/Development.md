@@ -35,7 +35,9 @@ Create a new project by cloning an existing repository.
 GitLab Repository: https://gitlab.com/dark-anvil-labs-cloud-sketch/cloud-sketch.git
 
 ### Extensions and Packages: 
-Once Visual Studio is installed and the project is open, ensure the that the following Nuget Packages are installed:
+Once Visual Studio is installed and the project is open, ensure the that the following are installed.
+
+#### Nuget Packages:
 - AWSSDK.Core
 - AWSSDK.EC2
 - AWSSDK.ElasticLoadBalancing
@@ -49,6 +51,12 @@ Once Visual Studio is installed and the project is open, ensure the that the fol
 - NUnit3TestAdapter
 - Syncfusion.SfDiagram.WPF
 - Syncfusion.Tools.WPF
+
+#### Extensions:
+- AWS Toolkit for Visual Studio 2017 and 2019
+- Wix Toolset Visual Studio 2019 Extension
+- WiX Toolset Build Tools
+
 
 
 ### Folder Structure
