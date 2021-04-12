@@ -99,6 +99,6 @@ Because we are working with mock AWS items for testing, we want to verify that t
 <br/>**Step 3**: Accessing the Main Window.
 - When you launch Cloud Sketch from Visual Studio, on the first Login window, simply click "Login."
 
-![Fake Items](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/fakeawsitems.jpg?raw=true)
+![Fake Items](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/maindashboard.jpeg?raw=true)
 <br/>**Step 4**: View Fake AWS Items
 - Enabling DevMode successful. You should some notably named test items on the dashboard.
