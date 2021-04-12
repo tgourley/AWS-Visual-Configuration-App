@@ -57,7 +57,7 @@ After clicking the "Login with Access Keys" button, these options will appear.
 **Feature 6**: Login Button
 - On this menu, this button will be available.  Clicking it with a valid username, access key, and secret key will allow you further into the program by accessing your relative AWS account.
 
-![Dashboard](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/mainwindowmain.JPG?raw=true)
+![Dashboard](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Auxiliary%20Files/maindashboardarrows.jpeg?raw=true)
 ### Dashboard
 The dashboard above will be presented when you log in successfully.  The AWS services that appear are specific to your/your employer's account, and also may vary based upon the settings feature, which is detailed below. NOTE: the first time you use this application, you may notice that the dashboard is empty. If this is the case, click on Settings, check all the AWS service boxes, close Settings, then hit Refresh.
 
@@ -70,17 +70,17 @@ The dashboard above will be presented when you log in successfully.  The AWS ser
 **Feature 3**: Load Balancer Representation / Secondary Service
 - The icon indicated in the picture represents a load balancer.  In future iterations, it may be used as a general icon for a service type that touches multiple other services, also known as a secondary service.
 
-**Feature 4**: EC2 Representation / Primary Service / Currently Focused Indication
-- The icon indicated in the picture represents an EC2 instance.  In future iterations, it may be used as a general icon for a primary service type.  This particular EC2 also shows what an object looks like when it is "focused."
+**Feature 4**: EC2 Representation / Primary Service 
+- The icon indicated in the picture represents an EC2 instance.  In future iterations, it may be used as a general icon for a primary service type. 
 
-**Feature 5**: Zoom-In / Zoom-Out
-- These buttons can be clicked to zoom in and out on the visualizatin menu.  They are detailed a bit further below under the "Zoom-In - Zoom-Out" heading.
-
-**Feature 6**: Logout Button
+**Feature 5**: Logout Button
 - This button returns a user to the primary login screen.
 
-**Feature 7**: Settings Button
+**Feature 6**: Settings Button
 - This button takes a user to the settings menu, detailed below under the heading "Settings Menu."
+
+**Feature 7**: Zoom-In / Zoom-Out
+- These buttons can be clicked to zoom in and out on the visualizatin menu.  They are detailed a bit further below under the "Zoom-In - Zoom-Out" heading.
 
 **Feature 8**: Refresh Button
 - This button allows a user to refresh their active connection to AWS.  If a change is made using the Amazon Dashboard, you can click this to see relevant changes reflected.  Additionally, after making changes in the Settings Menu, you can click this to see the changes.
