@@ -22,7 +22,7 @@ Accutech Systems
 - Trey Gourley
 
 ## *Installer:*
--[Cloud Sketch Installer (MSI)](https://github.com/welawrence543/AWS-Visual-Configuration-App/raw/master/Cloud_Sketch_Setup.msi)
+- [Download Cloud Sketch Installer (MSI)](https://github.com/welawrence543/AWS-Visual-Configuration-App/raw/master/Cloud_Sketch_Setup.msi)
 ## **Links**
 - [Project Management](https://github.com/welawrence543/AWS-Visual-Configuration-App/projects/1)
 - [Project description](ProjectDescription.md)
