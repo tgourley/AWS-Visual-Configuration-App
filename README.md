@@ -4,6 +4,9 @@
 
 A dashboard for viewing statuses and controlling (from a high level) various AWS items.
 
+## **Installer**
+- [Download Cloud Sketch Installer (MSI)](https://github.com/welawrence543/AWS-Visual-Configuration-App/raw/master/Cloud_Sketch_Setup.msi)
+
 ## **Team Members**
 
 - Joshua Kennedy
@@ -21,8 +24,6 @@ Accutech Systems
 ### *People:*
 - Trey Gourley
 
-### *Installer:*
-- [Download Cloud Sketch Installer (MSI)](https://github.com/welawrence543/AWS-Visual-Configuration-App/raw/master/Cloud_Sketch_Setup.msi)
 ## **Links**
 - [Project Management](https://github.com/welawrence543/AWS-Visual-Configuration-App/projects/1)
 - [Project description](ProjectDescription.md)
