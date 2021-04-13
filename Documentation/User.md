@@ -3,12 +3,12 @@
 ### Launch
 The program can be launched from the executable found in the root directory you have saved it in.  Double-click the .exe file to run it.  You may have to right-click and select "Run as Administrator" to run it.  Alternatively, it can be ran from visual studio. 
 
-**The application must be ran in DevMode with the environment variable set; instructions can be found [here](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Documentation/Development.md)**
+**The application must be ran in DevMode with the environment variable set; instructions can be found [here](https://github.com/welawrence543/AWS-Visual-Configuration-App/blob/master/Documentation/Development.md).**
 
 ### MSI
-The MSI can also be downloaded [here]() 
+The MSI can also be downloaded [here](). 
 
-When you launch Cloud Sketch from Visual Studio or the MSI, on the first Login window, simply click "Login."
+### When you launch Cloud Sketch from Visual Studio or the MSI, on the first Login window, simply click "Login."
 
 ## Features
 
