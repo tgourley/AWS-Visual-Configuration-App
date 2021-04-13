@@ -58,7 +58,7 @@ Once Visual Studio is installed and the project is open, ensure the that the fol
 - WiX Toolset Build Tools
 
 ### DevMode 
-Because we are working with mock AWS items for testing, we want to verify that these mock items show up in the dashboard properly. **The softwaremust be run in DevMode** in order the mock services to be viewed. To enable DevMode:
+Because we are working with mock AWS items for testing, we want to verify that these mock items show up in the dashboard properly. **The software must be run in DevMode** in order for the mock services to be viewed. To enable DevMode:
 
 <br/>**Step 1**: Add a System Environment variable.
 - In your computer's Environment Variables location (this can vary based upon OS),add a new system variable named "CLOUD_SKETCH_DEV_ACTIVE" and set the Value to "1."
