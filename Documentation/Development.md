@@ -56,6 +56,7 @@ Once Visual Studio is installed and the project is open, ensure the that the fol
 - AWS Toolkit for Visual Studio 2017 and 2019
 - Wix Toolset Visual Studio 2019 Extension
 - WiX Toolset Build Tools
+- Wax
 
 ### DevMode 
 Because we are working with mock AWS items for testing, we want to verify that these mock items show up in the dashboard properly. **The software must be run in DevMode** in order for the mock services to be viewed. To enable DevMode:
